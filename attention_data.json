@@ -1,0 +1,17 @@
+
+[
+  {
+    "id": "20240315_143022",
+    "start_time": "2024-03-15T14:30:22",
+    "end_time": "2024-03-15T15:45:10",
+    "keyboard_events": [],
+    "mouse_clicks": [],
+    "mouse_movements": [],
+    "window_switches": [],
+    "idle_periods": [],
+    "active_windows": {},
+    "window_durations": {},
+    "last_window_change": 1710513910.123,
+    "total_events": 0
+  }
+]
